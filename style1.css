@@ -1,0 +1,140 @@
+body {
+    margin: 40px;
+     font-family: "BPG Nino Mtavruli Bold", sans-serif;
+
+}
+ul {
+  margin: 0;
+  margin-bottom: 20px;
+  padding: 0;
+}
+
+#parent {
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    margin-bottom: 20px;
+}
+
+#parent > li {
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+    
+}
+.navbar-li {
+    list-style: none;
+  margin-top: 11px;
+  margin-bottom: 11px;
+  font-size: 22px;
+   display: inline-block;
+
+
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
+
+}
+.navbar-li a{
+  text-decoration: none;
+  color: 3D58A6;
+font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.mtavari a{
+  color: #E53D34}
+.container {
+  position: relative;
+font-family: "BPG Nino Mtavruli Bold", sans-serif;
+
+  font-size: 30px;
+}
+.text-block{
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  color: white;
+}
+.text-block p {
+  margin: 10px 0 10px 0;
+}
+.text-block p#black {
+    color: black;
+}
+.text-block p.bold {  
+    font-weight: bold;
+}
+.text-block p#blue {
+    font-size: 22px;
+    color:#3D58A6;
+}
+p.lurji{
+  color: #3D58A6;
+  font-size: 22px;
+ font-family: 'roboto-123';
+}
+p.teqsti{
+  font-size: 20px;
+  color:#58595B;
+ font-family: 'roboto-123';
+}
+p.teqsti1{
+  font-size: 20px;
+  color:#333333;
+  font-family: 'roboto-123';
+}
+p.id{
+ 
+  font-size: 24px;
+  color:#000000;
+  font-family: 'roboto-123';
+}
+.bottom-left {
+    margin-top: 10px;
+}
+
+img.foto {
+    width: 1170px;
+    height: 460px
+}
+
+img.fb {
+    margin-right: 30px;
+    width: 14px;
+    height: 30px;
+}
+img.youtube {
+    margin-left: 30px;
+    width: 24.81px;
+    height: 30px;
+}
+img.xeli{
+  float: left;
+  margin-right:40px;
+  width:102.87px;
+  height: 145.5px;
+  }
+img.mobiluri{
+  float: left;
+  margin-right:40px;
+  width:84.81px;
+  height: 127.51px;
+  }
+
+.box {
+  background-color: #E6E6E6;
+  display: inline-block;
+  padding:20px;
+  width: 570px;
+  height: 225px;
+}
+
+.box1 {
+  background-color: #E6E6E6;
+  display: inline-block;
+  float: right;
+  padding:20px;
+  width: 570px;
+  height: 225px;
+
+}
